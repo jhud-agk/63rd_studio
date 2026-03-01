@@ -14,7 +14,7 @@ function Header({ func }: { func?: () => void }) {
         className="fade_text phone:flex items-center phone:gap-2"
       >
         {/* <TextAnimation text={"JUDEEJIKE_LDN 01.03 PM"} /> */}
-        <TypingEffect word={`64THSTUDIO_LDN`} />
+        <TypingEffect word={`63RDSTUDIO_LDN`} />
         <p>{date.format(time, "hh.mm A")}</p>
       </Link>
       <div className="flex phone:gap-10 phone:items-center items-start gap-3 fade_text">
@@ -35,14 +35,14 @@ function Header({ func }: { func?: () => void }) {
           <Link href={"/about"}>
             <TypingEffect word="ABOUT" />
           </Link>
-          <Link
+          {/* <Link
             href={
               "https://jhud.notion.site/User-Research-Repository-8cc925204f314fc38381189dc38587b6?pvs=4"
             }
             target="_blank"
           >
             <TypingEffect word="UX RESOURCE" />
-          </Link>
+          </Link> */}
         </div>
         <Link
           href={"mailto:judeejikeux@gmail.com"}

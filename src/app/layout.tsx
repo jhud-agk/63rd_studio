@@ -35,7 +35,7 @@ export const metadata: Metadata = {
         alt: "63rdstudio",
       },
     ],
-    locale: "en_NG",
+    locale: "en_ENG",
     type: "website",
   },
 };
