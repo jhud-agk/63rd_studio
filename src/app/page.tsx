@@ -130,7 +130,7 @@ function Home() {
           />
         </section>
 
-        <section className="sm:mt-[250px] pb-36">
+        <section className="sm:mt-[250px] mt-8 pb-36">
           <div className="reveal">
             <Link
               target="_blank"
