@@ -24,7 +24,7 @@ export const metadata: Metadata = {
   description:
     "We're a UX design studio that builds and redesigns exceptional and audits your complete CX .....",
   openGraph: {
-    title: "Quidhive - Payment Link for freelancers with Onchain escrow (Hive)",
+    title: "63rdstudio",
     description:
       "We're a UX design studio that builds and redesigns exceptional and audits your complete CX .....",
     url: "https://63rdstudio.com",
