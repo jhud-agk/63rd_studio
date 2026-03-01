@@ -24,7 +24,19 @@ export const metadata: Metadata = {
   description:
     "We're a UX design studio that builds and redesigns exceptional and audits your complete CX .....",
   openGraph: {
-    images: "/Preview.png",
+    title: "Quidhive - Payment Link for freelancers with Onchain escrow (Hive)",
+    description:
+      "We're a UX design studio that builds and redesigns exceptional and audits your complete CX .....",
+    url: "https://63rdstudio.com",
+    siteName: "63rdstudio",
+    images: [
+      {
+        url: "/Preview.png",
+        alt: "63rdstudio",
+      },
+    ],
+    locale: "en_NG",
+    type: "website",
   },
 };
 
